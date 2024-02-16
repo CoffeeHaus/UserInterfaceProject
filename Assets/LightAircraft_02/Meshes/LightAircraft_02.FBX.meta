@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 73ef422bf6283874caa7bf80e8db16be
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aileron_l
+    100002: aileron_r
+    100004: controlWheel_l
+    100006: controlWheel_r
+    100008: elevator
+    100010: flaps_l
+    100012: flaps_r
+    100014: headLights
+    100016: instruments
+    100018: interior
+    100020: landingGear_f
+    100022: landingGear_l
+    100024: landingGear_r
+    100026: //RootNode
+    100028: propeller
+    100030: rudder
+    100032: seat_b_l
+    100034: seat_b_r
+    100036: seat_f_l
+    100038: seat_f_r
+    100040: wheel_f
+    100042: wheel_l
+    100044: wheel_r
+    400000: aileron_l
+    400002: aileron_r
+    400004: controlWheel_l
+    400006: controlWheel_r
+    400008: elevator
+    400010: flaps_l
+    400012: flaps_r
+    400014: headLights
+    400016: instruments
+    400018: interior
+    400020: landingGear_f
+    400022: landingGear_l
+    400024: landingGear_r
+    400026: //RootNode
+    400028: propeller
+    400030: rudder
+    400032: seat_b_l
+    400034: seat_b_r
+    400036: seat_f_l
+    400038: seat_f_r
+    400040: wheel_f
+    400042: wheel_l
+    400044: wheel_r
+    2100000: paintWhite
+    2100002: paintBlue
+    2100004: Chrome
+    2100006: Black
+    2100008: Windows
+    2100010: Metal
+    2100012: lightsWhite
+    2100014: interior
+    2100016: lightsOrange
+    2100018: lightsRed
+    2300000: aileron_l
+    2300002: aileron_r
+    2300004: controlWheel_l
+    2300006: controlWheel_r
+    2300008: elevator
+    2300010: flaps_l
+    2300012: flaps_r
+    2300014: headLights
+    2300016: instruments
+    2300018: interior
+    2300020: landingGear_f
+    2300022: landingGear_l
+    2300024: landingGear_r
+    2300026: //RootNode
+    2300028: propeller
+    2300030: rudder
+    2300032: seat_b_l
+    2300034: seat_b_r
+    2300036: seat_f_l
+    2300038: seat_f_r
+    2300040: wheel_f
+    2300042: wheel_l
+    2300044: wheel_r
+    3300000: aileron_l
+    3300002: aileron_r
+    3300004: controlWheel_l
+    3300006: controlWheel_r
+    3300008: elevator
+    3300010: flaps_l
+    3300012: flaps_r
+    3300014: headLights
+    3300016: instruments
+    3300018: interior
+    3300020: landingGear_f
+    3300022: landingGear_l
+    3300024: landingGear_r
+    3300026: //RootNode
+    3300028: propeller
+    3300030: rudder
+    3300032: seat_b_l
+    3300034: seat_b_r
+    3300036: seat_f_l
+    3300038: seat_f_r
+    3300040: wheel_f
+    3300042: wheel_l
+    3300044: wheel_r
+    4300000: LightAircraft_02
+    4300002: flaps_l
+    4300004: aileron_l
+    4300006: flaps_r
+    4300008: aileron_r
+    4300010: rudder
+    4300012: headLights
+    4300014: elevator
+    4300016: interior
+    4300018: seat_f_l
+    4300020: seat_f_r
+    4300022: seat_b_r
+    4300024: seat_b_l
+    4300026: instruments
+    4300028: controlWheel_r
+    4300030: controlWheel_l
+    4300032: landingGear_l
+    4300034: wheel_l
+    4300036: landingGear_r
+    4300038: wheel_r
+    4300040: landingGear_f
+    4300042: wheel_f
+    4300044: propeller
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
